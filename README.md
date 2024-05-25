@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Mongodb**
 
-- 💬 Ask me about **Mern**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **hammad.afzal.code@gmail.com**
 
