@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI smart assistant**
 
-- 🌱 I’m currently learning **Mongodb**
+- 🌱 I’m currently learning **Mern**
 
 - 💬 Ask me about **MERN**
 
