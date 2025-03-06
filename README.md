@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Microservices Architecture**
 
-- 🌱 I’m currently learning **NODE JS**
+- 🌱 I’m currently learning **Socket IO**
 
 - 💬 Ask me about **MERN**
 
