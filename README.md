@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Microservices Architecture**
 
-- 🌱 I’m currently learning **KAFKA**
+- 🌱 I’m currently learning **Apache KAFKA**
 
 - 💬 Ask me about **MERN**
 
