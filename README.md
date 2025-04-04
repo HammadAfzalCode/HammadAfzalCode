@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Apache KAFKA**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Node js**
 
 - 📫 How to reach me **hammad.afzal.code@gmail.com**
 
