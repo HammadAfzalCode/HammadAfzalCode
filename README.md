@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Microservices Architecture**
 
-- 🌱 I’m currently learning **Rabbit MQ**
+- 🌱 I’m currently learning **Apache Kafka**
 
 - 💬 Ask me about **Node js**
 
