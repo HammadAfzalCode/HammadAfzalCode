@@ -1,5 +1,5 @@
 # Hi 👋, I'm Hammad Afzal  
-### Systems & AI Automation Engineer
+### Fullstack & AI Automation Engineer
 
 Highly velocity backend engineer specializing in architecting resilient, decoupled backend infrastructures, secure multi-tenant SaaS platforms, and event-driven AI agent orchestration.
 
